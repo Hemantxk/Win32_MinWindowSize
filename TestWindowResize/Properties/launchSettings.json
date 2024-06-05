@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestWindowResize (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestWindowResize (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
